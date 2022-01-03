@@ -1,6 +1,6 @@
 {
   "name": "@springcomp/generator-hello-world",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "Yeoman generator that serves as an 'Hello, world!' learning project.",
   "author": {
     "name": "Springcomp",

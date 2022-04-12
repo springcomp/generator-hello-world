@@ -27,9 +27,8 @@
     "_clear-package-json": "npx clear-package-json package.json --output ./dist/package.json"
   },
   "dependencies": {
-    "@springcomp/generator-readme": "^0.8.0",
+    "@springcomp/generator-readme": "^0.9.0",
     "deep-extend": "^0.6.0",
-    "generator-node": "^2.8.0",
     "inquirer": "^8.2.0",
     "inquirer-npm-name": "^4.0.0",
     "mkdirp": "^1.0.4",

@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/springcomp/generator-hello-world.git"
   },
-  "license": "Apache License 2.0",
+  "license": "Apache-2.0",
   "files": [
     "generators"
   ],
